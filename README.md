@@ -1,7 +1,8 @@
 1) Data Collection Method:
+
 The Compound V2 API was not working, so I used randomly generated data to simulate each wallet’s DeFi activity, such as how much they borrowed, supplied, repaid, and how often they were liquidated.
 
-2) Feature Selection:
+3) Feature Selection:
 
 I used the following features to for wallet’s risk:
 
